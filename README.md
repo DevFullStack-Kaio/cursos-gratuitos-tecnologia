@@ -19,11 +19,12 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ## Sumário
 - [Informática Básica e Pacote Office](#informática-básica-e-pacote-office)
 - [Lógica de Programação](#lógica-de-programação)
-- [Programação](#programação)
-- [Ciência de Dados](#ciência-de-dados)
+- [Linguagem de Programação](#linguagem-de-programação)
+- [Banco de Dados](#banco-de-dados)
+- [Docker e Armazenamento em Nuvem](#docker-e-armazenamento-em-nuvem)
 - [Cibersegurança](#cibersegurança)
-- [Nuvem / AWS](#nuvem--aws)
-
+- [Inteligência Artificial](#inteligência-artificial)
+  
 ---
 
 ## 📑 Informática Básica e Pacote Office

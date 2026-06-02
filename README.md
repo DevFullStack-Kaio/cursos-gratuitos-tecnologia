@@ -14,9 +14,21 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 
 💡 Dica: use **Ctrl + F** para encontrar rapidamente o tema que procura.
 
+# 📚 Cursos Gratuitos
+
+## Sumário
+- [Informática Básica e Pacote Office](#informática-básica-e-pacote-office)
+- [Lógica de Programação](#lógica-de-programação)
+- [Programação](#programação)
+- [Ciência de Dados](#ciência-de-dados)
+- [Cibersegurança](#cibersegurança)
+- [Nuvem / AWS](#nuvem--aws)
+
 ---
 
 ## 📑 Informática Básica e Pacote Office
+Aqui você encontra cursos gratuitos sobre Word, PowerPoint e fundamentos de informática. 
+Cursos para dominar planilhas, fórmulas avançadas e automação com VBA.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
@@ -40,6 +52,7 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ---
 
 ## 💻 Linguagens de Programação
+Conteúdos de introdução a linguagens como C, C++, C#, Python e JavaScript.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
@@ -50,6 +63,7 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ---
 
 ## 🗄️ Banco de Dados
+Cursos sobre análise de dados, estatística aplicada e ferramentas como Pandas e NumPy.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
@@ -60,6 +74,7 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ---
 
 ## 📦 Docker e Armazenamento em Nuvem
+Cursos introdutórios sobre computação em nuvem e serviços da AWS.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
@@ -70,6 +85,7 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ---
 
 ## 🔒 Cibersegurança
+Materiais sobre segurança da informação, boas práticas e fundamentos de proteção digital.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|

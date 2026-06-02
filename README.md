@@ -16,6 +16,19 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 
 ---
 
+## 📑 Informática Básica e Pacote Office
+
+| 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
+|----------------------|---------------------------------------------|---------|--------------|
+| Fundação Bradesco    | Introdução à Informática                   | [Acessar](https://www.ev.org.br/cursos/introducao-a-informatica) | Conceitos básicos de hardware, software e internet. |
+| Fundação Bradesco    | Word Básico                                | [Acessar](https://www.ev.org.br/cursos/word) | Criação e edição de documentos. |
+| Fundação Bradesco    | Excel Básico                               | [Acessar](https://www.ev.org.br/cursos/excel) | Planilhas, fórmulas e gráficos. |
+| Fundação Bradesco    | PowerPoint Básico                          | [Acessar](https://www.ev.org.br/cursos/powerpoint) | Criação de apresentações visuais. |
+| ENAP (Escola Nacional de Administração Pública) | Excel Intermediário | [Acessar](https://www.escolavirtual.gov.br/) | Curso gratuito oferecido pelo governo, com foco em produtividade. |
+| ENAP (Escola Nacional de Administração Pública) | Word Avançado | [Acessar](https://www.escolavirtual.gov.br/) | Técnicas avançadas de edição e formatação de documentos. |
+
+---
+
 ## 🧠 Lógica de Programação
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
@@ -59,8 +72,8 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ## 🔒 Cibersegurança
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
-|----------------------|---------------------------------------------|---------|---------------|
-| Fundação Bradesco    | Segurança da Informação                     | [Acessar] (https://www.ev.org.br/cursos/seguranca-da-informacao) | Fundamentos de segurança digital. |
+|----------------------|---------------------------------------------|---------|--------------|
+| Fundação Bradesco    | Segurança da Informação                    | [Acessar](https://www.ev.org.br/cursos/seguranca-da-informacao) | Fundamentos de segurança digital. |
 | Cisco Networking     | Introduction to Cybersecurity              | [Acessar](https://www.netacad.com/) | Curso oficial da Cisco. |
 | Coursera             | Cybersecurity Basics                       | [Acessar](https://www.coursera.org/) | Introdução prática à segurança. |
 
@@ -69,7 +82,7 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 ## 🤖 Inteligência Artificial
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
-|----------------------|---------------------------------------------|---------|---------------|
+|----------------------|---------------------------------------------|---------|--------------|
 | Google               | Fundamentos de IA Generativa               | [Acessar](https://cloud.google.com/learn/ai) | Conceitos básicos de IA generativa. |
 | IBM                  | Introdução à IA                           | [Acessar](https://cognitiveclass.ai/) | Curso gratuito com certificado. |
 | Microsoft Learn      | IA para Desenvolvedores                    | [Acessar](https://learn.microsoft.com/pt-br/training/paths/) | Aplicações práticas de IA. |
@@ -80,10 +93,8 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 
 📧 vanjosil@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vanderlei-jose-da-silva-78173069)  
-👉 Veja meus [Projetos e Portfólio](https://github.com/DevFullStack-Kaio/DevFullStack-Kaio)
+👉 Veja meus [Projetos e Portfólio Técnico](https://github.com/DevFullStack-Kaio/DevFullStack-Kaio)
 
 ---
 
 ⭐ **Se este conteúdo te ajudar, deixe uma estrela no repositório!**
-
-👉 Veja meus [Projetos e Portfólio](https://github.com/DevFullStack-Kaio/DevFullStack-Kaio)

@@ -39,7 +39,7 @@ Cursos para dominar planilhas, fórmulas avançadas e automação com VBA.
 | Fundação Bradesco    | Excel Básico                               | [Acessar](https://www.ev.org.br/cursos/excel-na-pratica)| Indicado tanto para iniciantes quanto para aqueles que já possuem algum conhecimento da ferramenta, este curso é uma excelente oportunidade para enriquecer seu currículo e aplicar o Excel em diversas áreas da sua vida, incluindo a organização financeira pessoal. | 
 | ENAP (Escola Nacional de Administração Pública) | Excel Intermediário | [Acessar](https://www.escolavirtual.gov.br/)| Curso gratuito oferecido pelo governo, com foco em produtividade. |
 | Fundação Bradesco    | Excel Avançado                             | [Acessar](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado)| Neste curso, você conhecerá novos recursos, como nome, utilizado em células com fórmulas, subtotal, filtro avançado, importação e exportação de dados, cenários, análise rápida, entre outros, que foram aprimorados para esta versão.
-| Fundação Bradesco    | PowerPoint Básico  e Avançadp                        | [Acessar](https://www.ev.org.br/cursos/powerpoint)| Criação de apresentações visuais. |
+| Fundação Bradesco    | PowerPoint Básico  e Avançado                        | [Acessar](https://www.ev.org.br/cursos/powerpoint)| Criação de apresentações visuais. |
 
 
 

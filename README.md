@@ -73,7 +73,7 @@ Os alunos praticam no próprio ritmo, solucionando primeiramente suas dificuldad
 | freeCodeCamp         | JavaScript Básico                          | [Acessar](https://www.freecodecamp.org/learn) | Fundamentos de JS para web. |
 | Fundação Bradesco    | Introdução ao Python                       | [Acessar](https://www.ev.org.br/cursos/python) | Curso introdutório de Python. |
 | DIO                  | Formação Java Developer                    | [Acessar](https://www.dio.me/) | Curso completo de Java. |
-| Haward University    | Cursos de Programação                      | [acessar](https://pll.harvard.edu/subject/programming) Ciência da computação, Introdução ao Desenvolvimentod e jogos 2D no CS50, CS50 para advogados, Utilizando Python para pesquisa, Introdução à Programação com Python no CS50, Ciência da Computação para Negócios (CS50), Introdução à Inteligência Artificial com Python CS50, Programação Web com Python e JavaScript no CS50, Métodos quantitativos para biologia
+| Haward University    | Cursos de Programação                      | [acessar](https://pll.harvard.edu/subject/programming) | Ciência da computação, Introdução ao Desenvolvimentod e jogos 2D no CS50, CS50 para advogados, Utilizando Python para pesquisa, Introdução à Programação com Python no CS50, Ciência da Computação para Negócios (CS50), Introdução à Inteligência Artificial com Python CS50, Programação Web com Python e JavaScript no CS50, Métodos quantitativos para biologia
 
 ---
 

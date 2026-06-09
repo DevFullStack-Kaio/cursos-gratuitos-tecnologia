@@ -1,7 +1,7 @@
 # 📚 Cursos Gratuitos de Tecnologia e variadas áreas do conhecimento
 
 Este repositório reúne cursos e certificações **100% gratuitos** em variadas áreas do conhecimento, tecnologia, linguagens de programação, ciência de dados, ba co de dados, IA (para variados áreas do conhecimento e cibersegurança.  
-A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de desenvolvedores. 🚀
+A ideia é democratizar o acesso ao conhecimento, em áreas distintas e fortalecer a comunidade de desenvolvedores. 🚀
 
 ---
 
@@ -10,7 +10,12 @@ A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de de
 - 📂 Conteúdos de qualidade organizados por tema  
 - 🔗 Links diretos para cursos e certificações  
 - 🎓 Certificados gratuitos e reconhecidos  
-- 🔄 Atualizações frequentes com novos materiais  
+- 🔄 Atualizações frequentes com novos materiais
+
+- ### 🔗 Conecte-se comigo
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/DevFullStack-Kaio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/vanderlei-jose-da-silva-78173069/))
+[![Facebook](https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook)](https://facebook.com/vanderlei.silva.7773)  
 
 💡 Dica: use **Ctrl + F** para encontrar rapidamente o tema que procura.
 

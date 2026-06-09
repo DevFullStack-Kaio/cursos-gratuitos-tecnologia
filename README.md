@@ -1,6 +1,6 @@
-# 📚 Cursos Gratuitos de Tecnologia
+# 📚 Cursos Gratuitos de Tecnologia e variadas áreas do conhecimento
 
-Este repositório reúne cursos e certificações **100% gratuitos** em tecnologia, linguagens de programação, ciência de dados, IA e cibersegurança.  
+Este repositório reúne cursos e certificações **100% gratuitos** em variadas áreas do conhecimento, tecnologia, linguagens de programação, ciência de dados, ba co de dados, IA (para variados áreas do conhecimento e cibersegurança.  
 A ideia é democratizar o acesso ao conhecimento e fortalecer a comunidade de desenvolvedores. 🚀
 
 ---

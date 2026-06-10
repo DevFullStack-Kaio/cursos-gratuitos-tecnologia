@@ -137,7 +137,7 @@ Materiais sobre segurança da informação, boas práticas e fundamentos de prot
 📧 vanjosil@gmail.com  
 
 - ### 🔗 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/DevFullStack-Kaio)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/DevFullStack-Kaio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanderlei.kaio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/vanderlei-jose-da-silva-78173069/))
 [![Facebook](https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook)](https://facebook.com/vanderlei.silva.7773)  

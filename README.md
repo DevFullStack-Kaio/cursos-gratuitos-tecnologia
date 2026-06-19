@@ -24,7 +24,7 @@ A ideia é democratizar o acesso ao conhecimento, em áreas distintas e fortalec
 - [Banco de Dados](#banco-de-dados)
 - [Docker e Armazenamento em Nuvem](#docker-e-armazenamento-em-nuvem)
 - [Cibersegurança](#cibersegurança)
-- [Inteligência Artificial](#inteligência-artificial)
+- [Inteligência Artificia e variados cursosl](#inteligência-artificial)
   
 ---
 
@@ -122,7 +122,7 @@ Materiais sobre segurança da informação, boas práticas e fundamentos de prot
 
 ---
 
-## 🤖 Inteligência Artificial
+## 🤖 Inteligência Artificial e variados cursos
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|

@@ -72,7 +72,7 @@ Cursos para dominar planilhas, fórmulas avançadas e automação com VBA.
 
 ---
 
-## 💻 Linguagens de Programação
+## 💻 Linguagens de Programação e cursos variados
 Conteúdos de introdução a linguagens como C, C++, C#, Python e JavaScript.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |

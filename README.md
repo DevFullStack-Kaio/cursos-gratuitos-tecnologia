@@ -66,9 +66,9 @@ Cursos para dominar planilhas, fórmulas avançadas e automação com VBA.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
-| Fundação Bradesco    | Lógica de Programação                      | [Acessar](https://www.ev.org.br/cursos/logica-de-programacao) | Fundamentos de algoritmos e raciocínio lógico. |
-| DIO                  | Introdução à Lógica de Programação         | [Acessar](https://www.dio.me/) | Curso prático com exercícios interativos. |
-| Udemy (Free)         | Lógica de Programação para Iniciantes      | [Acessar](https://www.udemy.com/) | Conceitos básicos com exemplos em várias linguagens. |
+| Fundação Bradesco    | Lógica de Programação                       | [Acessar](https://www.ev.org.br/cursos/logica-de-programacao) | Fundamentos de algoritmos e raciocínio lógico. |
+| DIO                  | Introdução à Lógica de Programação          | [Acessar](https://www.dio.me/) | Curso prático com exercícios interativos. |
+| Udemy (Free)         | Lógica de Programação para Iniciantes       | [Acessar](https://www.udemy.com/) | Conceitos básicos com exemplos em várias linguagens. |
 
 ---
 
@@ -77,16 +77,16 @@ Conteúdos de introdução a linguagens como C, C++, C#, Python e JavaScript.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
-| Avamec               |  Além da área pedagógica, há cursos em administração, meio ambiente, tecnologia, idiomas e saúde                                             | [acessar](https://avamec.mec.gov.br/v2/#/). | Os cursos da AVAMEC (Ambiente Virtual de Aprendizagem do Ministério da Educação) são formações 100% online e gratuitas, com emissão de certificado reconhecido pelo MEC. Eles são voltados para o aprimoramento profissional, qualificação em diversas áreas e, principalmente, para a capacitação e formação continuada de educadores de todo o Brasil.
-| Classcentral         | Mais de 1300 universidades                  | [acessar](https://www.classcentral.com/). |Atuar como um agregador e buscador de cursos online. Ele funciona como um catálogo que reúne milhares de cursos de diversas plataformas (como Coursera, edX, Udemy e FGV) em um só lugar, facilitando a busca pelos melhores treinamentos. |
-| IFRS                 | Curta duração, Extensão, técnicos, graduação e pós | [acessar](https://estude.ifrs.edu.br/cursos/unidade/virtual/). |  Programador WEB, Pós-graduação em Inteligência Artificial na Educação, 
+| Avamec               |  Além da área pedagógica, há cursos em administração, meio ambiente, tecnologia, idiomas e saúde                                             | [acessar](https://avamec.mec.gov.br/v2/#/) | Os cursos da AVAMEC (Ambiente Virtual de Aprendizagem do Ministério da Educação) são formações 100% online e gratuitas, com emissão de certificado reconhecido pelo MEC. Eles são voltados para o aprimoramento profissional, qualificação em diversas áreas e, principalmente, para a capacitação e formação continuada de educadores de todo o Brasil.
+| Classcentral         | Mais de 1300 universidades                  | [acessar](https://www.classcentral.com/) |Atuar como um agregador e buscador de cursos online. Ele funciona como um catálogo que reúne milhares de cursos de diversas plataformas (como Coursera, edX, Udemy e FGV) em um só lugar, facilitando a busca pelos melhores treinamentos. |
+| IFRS                 | Curta duração, Extensão, técnicos, graduação e pós | [acessar](https://estude.ifrs.edu.br/cursos/unidade/virtual/) |  Programador WEB, Pós-graduação em Inteligência Artificial na Educação, 
 | Scrimba              | Algoritmos, Backend, CSS, IAs, linguagens   | [Acessar](https://scrimba.com/courses?price=free&ref=classcentral) | Os programas são soluções completas para você se tornar um profissional altamente qualificado para uma determinada função. São alternativas de baixo custo a cursos universitários ou bootcamps. Assista a este vídeo se precisar de ajuda para decidir qual programa escolher. |
-| Kanacademy           | Computação e Ciência de Computação         | [Acessar](https://pt.khanacademy.org). | Faça como milhões de pessoas de todo o mundo e aprenda por meio de vídeos, resolução de problemas e suporte de IA, para alunos e professores, pode aprender qualquer disciplina desde o 1º ano do ensino fundamental até 9º ano. Aprendizagem personalizada. Os alunos praticam no próprio ritmo, solucionando primeiramente suas dificuldades de compreensão e, depois, acelerando o aprendizado.
-| freeCodeCamp         | JavaScript Básico                          | [Acessar](https://www.freecodecamp.org/learn) | Fundamentos de JS para web. |
-| Fundação Bradesco    | Introdução ao Python                       | [Acessar](https://www.ev.org.br/cursos/python) | Curso introdutório de Python. |
-| DIO                  | Formação Java Developer                    | [Acessar](https://www.dio.me/) | Curso completo de Java. |
-| Haward University    | Cursos de Programação                      | [acessar](https://pll.harvard.edu/subject/programming) | Ciência da computação, Introdução ao Desenvolvimentod e jogos 2D no CS50, CS50 para advogados, Utilizando Python para pesquisa, Introdução à Programação com Python no CS50, Ciência da Computação para Negócios (CS50), Introdução à Inteligência Artificial com Python CS50, Programação Web com Python e JavaScript no CS50, Métodos quantitativos para biologia. |
-| COD3                 |Cursos voltados para tecnologia             | [Acessar](https://www.cod3r.com.br/collections?page=2) | Curso voltados para tecnonogia, alguns gratuitos outros cursos pagos. |
+| Kanacademy           | Computação e Ciência de Computação          | [Acessar](https://pt.khanacademy.org) | Faça como milhões de pessoas de todo o mundo e aprenda por meio de vídeos, resolução de problemas e suporte de IA, para alunos e professores, pode aprender qualquer disciplina desde o 1º ano do ensino fundamental até 9º ano. Aprendizagem personalizada. Os alunos praticam no próprio ritmo, solucionando primeiramente suas dificuldades de compreensão e, depois, acelerando o aprendizado.
+| freeCodeCamp         | JavaScript Básico                           | [Acessar](https://www.freecodecamp.org/learn) | Fundamentos de JS para web. |
+| Fundação Bradesco    | Introdução ao Python                        | [Acessar](https://www.ev.org.br/cursos/python) | Curso introdutório de Python. |
+| DIO                  | Formação Java Developer                     | [Acessar](https://www.dio.me/) | Curso completo de Java. |
+| Haward University    | Cursos de Programação                       | [acessar](https://pll.harvard.edu/subject/programming) | Ciência da computação, Introdução ao Desenvolvimentod e jogos 2D no CS50, CS50 para advogados, Utilizando Python para pesquisa, Introdução à Programação com Python no CS50, Ciência da Computação para Negócios (CS50), Introdução à Inteligência Artificial com Python CS50, Programação Web com Python e JavaScript no CS50, Métodos quantitativos para biologia. |
+| COD3                 |Cursos voltados para tecnologia              | [Acessar](https://www.cod3r.com.br/collections?page=2) | Curso voltados para tecnonogia, alguns gratuitos outros cursos pagos. |
 
 ---
 

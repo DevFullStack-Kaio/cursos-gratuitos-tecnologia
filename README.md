@@ -23,7 +23,7 @@ A ideia é democratizar o acesso ao conhecimento, em áreas distintas e fortalec
 - [Linguagem de Programação](#linguagem-de-programação)
 - [Banco de Dados](#banco-de-dados)
 - [Docker e Armazenamento em Nuvem](#docker-e-armazenamento-em-nuvem)
-- [Cibersegurança](#cibersegurança)
+- [Cibersegurança e cursos variados](#cibersegurança)
 - [Inteligência Artificia e variados cursosl](#inteligência-artificial)
   
 ---
@@ -111,7 +111,7 @@ Cursos introdutórios sobre computação em nuvem e serviços da AWS.
 
 ---
 
-## 🔒 Cibersegurança
+## 🔒 Cibersegurança e cursos variados
 Materiais sobre segurança da informação, boas práticas e fundamentos de proteção digital.
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |

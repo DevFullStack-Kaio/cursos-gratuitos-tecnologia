@@ -86,6 +86,7 @@ Conteúdos de introdução a linguagens como C, C++, C#, Python e JavaScript.
 | Fundação Bradesco    | Introdução ao Python                       | [Acessar](https://www.ev.org.br/cursos/python) | Curso introdutório de Python. |
 | DIO                  | Formação Java Developer                    | [Acessar](https://www.dio.me/) | Curso completo de Java. |
 | Haward University    | Cursos de Programação                      | [acessar](https://pll.harvard.edu/subject/programming) | Ciência da computação, Introdução ao Desenvolvimentod e jogos 2D no CS50, CS50 para advogados, Utilizando Python para pesquisa, Introdução à Programação com Python no CS50, Ciência da Computação para Negócios (CS50), Introdução à Inteligência Artificial com Python CS50, Programação Web com Python e JavaScript no CS50, Métodos quantitativos para biologia. |
+| COD3                 |Cursos voltados para tecnologia             | [Acessar](https://www.cod3r.com.br/collections?page=2) | Curso voltados para tecnonogia, alguns gratuitos outros cursos pagos. |
 
 ---
 
@@ -129,7 +130,7 @@ Materiais sobre segurança da informação, boas práticas e fundamentos de prot
 | Google               | Fundamentos de IA Generativa               | [Acessar](https://cloud.google.com/learn/ai) | Conceitos básicos de IA generativa. |
 | IBM                  | Introdução à IA                            | [Acessar](https://cognitiveclass.ai/) | Curso gratuito com certificado. |
 | Microsoft Learn      | IA para Desenvolvedores                    | [Acessar](https://learn.microsoft.com/pt-br/training/paths/) | Aplicações práticas de IA. |
-| Centrral class       | Cursos em vídeos                           | [Acessar](https://www.classcentral.com/search?q=cursos%20sobre%20ias%20gratuitos) | Descubra o universo da Inteligência Artificial e Ciência de Dados com nossos 23 cursos gratuitos. Aprenda sobre temas como Inteligência Artificial Aplicada na Saúde, Ciência de Dados, Mineração de Dados, e muito mais. Desde Introdução ao ChatGPT até a criação de ChatBots com Python, nossos cursos abrangem tópicos essenciais para alavancar suas habilidades. Envolva-se com Análise de Dados, Machine Learning, Deep Learning e Power BI.   
+| ClassCentral         | Cursos em vídeos                           | [Acessar](https://www.classcentral.com/search?q=cursos%20sobre%20ias%20gratuitos) | Descubra o universo da Inteligência Artificial e Ciência de Dados com nossos 23 cursos gratuitos. Aprenda sobre temas como Inteligência Artificial Aplicada na Saúde, Ciência de Dados, Mineração de Dados, e muito mais. Desde Introdução ao ChatGPT até a criação de ChatBots com Python, nossos cursos abrangem tópicos essenciais para alavancar suas habilidades. Envolva-se com Análise de Dados, Machine Learning, Deep Learning e Power BI.   
 | Cursa                | Estuda e Aprende gratuitamente             | [Acessar](https://cursa.app/pt) | Tecnologia informática e programação, cursos profissionalizantes, Administração negpocios e marketing, Idiomas e comunicação, Saúde e bem estar, Edcução básica ENEM e vestibulares, Design, criatividade a àudio visual, Concursos, Estética e beleza, Direito, Música e áudio, Estilo de vida e outros conhecimentos. |
 
 ---

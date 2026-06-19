@@ -20,7 +20,7 @@ A ideia é democratizar o acesso ao conhecimento, em áreas distintas e fortalec
 - [Área de conhecimento Diversificada](área-de-conhecimento-diversifica)
 - [Informática Básica e Pacote Office](#informática-básica-e-pacote-office)
 - [Lógica de Programação](#lógica-de-programação)
-- [Linguagem de Programação](#linguagem-de-programação)
+- [Linguagem de Programação e cursos variados](#linguagem-de-programação)
 - [Banco de Dados](#banco-de-dados)
 - [Docker e Armazenamento em Nuvem](#docker-e-armazenamento-em-nuvem)
 - [Cibersegurança e cursos variados](#cibersegurança)
@@ -62,7 +62,7 @@ Cursos para dominar planilhas, fórmulas avançadas e automação com VBA.
 
 ---
 
-## 🧠 Lógica de Programação
+## 🧠 Lógica de Programação e cursos variados
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|

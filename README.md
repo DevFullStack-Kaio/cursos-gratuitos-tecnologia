@@ -116,7 +116,7 @@ Materiais sobre segurança da informação, boas práticas e fundamentos de prot
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
-| Fundação Bradesco    | Segurança da Informação                    | [Acessar](https://www.ev.org.br/cursos/seguranca-da-informacao) | Fundamentos de segurança digital. |
+| Fundação Bradesco    | Cursos variados                            | [Acessar](https://www.ev.org.br/areas-de-interesse) | Análise de dados, Desenvolvimento pessoal e profissional, Educação e tecnologia, Negócios e inovação, Produtividade, Programação, Tecnologia da Informação. |
 | Cisco Networking     | Introduction to Cybersecurity              | [Acessar](https://www.netacad.com/) | Curso oficial da Cisco. |
 | Coursera             | Cybersecurity Basics                       | [Acessar](https://www.coursera.org/) | Introdução prática à segurança. |
 
@@ -127,9 +127,10 @@ Materiais sobre segurança da informação, boas práticas e fundamentos de prot
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|--------------|
 | Google               | Fundamentos de IA Generativa               | [Acessar](https://cloud.google.com/learn/ai) | Conceitos básicos de IA generativa. |
-| IBM                  | Introdução à IA                           | [Acessar](https://cognitiveclass.ai/) | Curso gratuito com certificado. |
+| IBM                  | Introdução à IA                            | [Acessar](https://cognitiveclass.ai/) | Curso gratuito com certificado. |
 | Microsoft Learn      | IA para Desenvolvedores                    | [Acessar](https://learn.microsoft.com/pt-br/training/paths/) | Aplicações práticas de IA. |
-| Cursa                | Cursos em vídeos                           | [Acessar](https://www.classcentral.com/search?q=cursos%20sobre%20ias%20gratuitos) | Descubra o universo da Inteligência Artificial e Ciência de Dados com nossos 23 cursos gratuitos. Aprenda sobre temas como Inteligência Artificial Aplicada na Saúde, Ciência de Dados, Mineração de Dados, e muito mais. Desde Introdução ao ChatGPT até a criação de ChatBots com Python, nossos cursos abrangem tópicos essenciais para alavancar suas habilidades. Envolva-se com Análise de Dados, Machine Learning, Deep Learning e Power BI.           
+| Centrral class       | Cursos em vídeos                           | [Acessar](https://www.classcentral.com/search?q=cursos%20sobre%20ias%20gratuitos) | Descubra o universo da Inteligência Artificial e Ciência de Dados com nossos 23 cursos gratuitos. Aprenda sobre temas como Inteligência Artificial Aplicada na Saúde, Ciência de Dados, Mineração de Dados, e muito mais. Desde Introdução ao ChatGPT até a criação de ChatBots com Python, nossos cursos abrangem tópicos essenciais para alavancar suas habilidades. Envolva-se com Análise de Dados, Machine Learning, Deep Learning e Power BI.   
+| Cursa                | Estuda e Aprende gratuitamente             | [Acessar]([https://cloud.google.com/learn/ai](https://cursa.app/pt) | Tecnologia informática e programação, cursos profissionalizantes, Administração negpocios e marketing, Idiomas e comunicação, DSaúde e bem estar, Edcução básica ENEM e vestibulares, Design, criatividade a àudio visual, Concursos, Estética e beleza, Direito, Música e áudio, Estilo de vida e outros conhecimentos. |
 
 ---
 

@@ -95,6 +95,7 @@ Cursos sobre análise de dados, estatística aplicada e ferramentas como Pandas 
 
 | 🏫 Fornecedor        | 📘 Curso                                   | 🔗 Link | 📝 Descrição |
 |----------------------|---------------------------------------------|---------|---------------|
+| AMAZON               | Cursos de Tecnologia variados               | [Acessar](https://aws.amazon.com/pt/free/) | Oferece centenas de cursos gratuitos de tecnologia focados em computação em nuvem, programação e Inteligência Artificial.. |
 | Fundação Bradesco    | Introdução a Banco de Dados                 | [Acessar](https://www.ev.org.br/cursos/introducao-a-banco-de-dados) | Conceitos básicos de SQL. |
 | Coursera             | SQL for Data Science                        | [Acessar](https://www.coursera.org/) | SQL aplicado à ciência de dados. |
 | DIO                  | Formação Database Specialist                | [Acessar](https://www.dio.me/) | SQL, NoSQL e boas práticas. | Portal idea         | Acesso gratuito a inúmeros cursos           | [acessar](https://portalidea.com.br/listacursos-informatica-1). | Cursos de Banco de Dados Administrativo.
